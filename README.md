@@ -1,4 +1,4 @@
-# Media-Query--Portfolio
+# Media-Query-Portfolio
 Homework 2 - Part 1
 
 Overview
